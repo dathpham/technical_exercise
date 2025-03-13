@@ -70,8 +70,8 @@ The weakness of my analysis :
 
 
 
-5. What ICAO event categories are most common at Canadian airports? Is there any trend or pattern evident
-in these Canadian events?
+5. What ICAO event categories are most common at Canadian airports? Is there any trend or pattern evident in these Canadian events?
+
 The most common event happens at Canadian airports is the SYSTEM/COMPONENT FAILURE OR MALFUNCTION (NON-POWERPLANT) (SCF–NP) with 2623 incidents. The second most incident is SYSTEM/COMPONENT FAILURE OR MALFUNCTION (POWERPLANT) (SCF–PP). The trend or pattern is incidents are more related to system issue or component failure.
 
 ![image](https://github.com/dathpham/technical_exercise/blob/main/Question5.PNG)
