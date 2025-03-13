@@ -65,7 +65,7 @@ The weakness of my analysis :
 - Overfitting
 - Lack meaningful system metric as most of them contain NULL
 
-![image](https://github.com/dathpham/technical_exercise/blob/main/Question4.png)
+![image](https://github.com/dathpham/technical_exercise/blob/main/Question4.PNG)
 ![image](https://github.com/dathpham/technical_exercise/blob/main/Question4_Feature_Importance.png)
 
 
