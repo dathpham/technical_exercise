@@ -1,0 +1,13 @@
+Count of NaN in each column of Occurrence Dataset:
+OccID                                    0
+OccNo                                    0
+AirportID                            29714
+AirportID_AirportName                29714
+AirportID_CountryID                  29714
+                                     ...  
+FullProcedureIND_DisplayEng          52729
+FullProcedureIND_DisplayFre          52729
+SurfaceContaminationID               48907
+SurfaceContaminationID_DisplayEng    48907
+SurfaceContaminationID_DisplayFre    48907
+Length: 242, dtype: int64

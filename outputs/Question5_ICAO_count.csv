@@ -1,0 +1,39 @@
+Count of ICAO Events in Canadian Airport:
+ICAO_DisplayEng                                                                     
+SYSTEM/COMPONENT FAILURE OR MALFUNCTION (NON-POWERPLANT) (SCF–NP)                       2623
+SYSTEM/COMPONENT FAILURE OR MALFUNCTION (POWERPLANT) (SCF–PP)                           1184
+AIRPROX/TCAS ALERT/LOSS OF SEPARATION/NEAR MIDAIR COLLISIONS/MIDAIR COLLISIONS (MAC)     659
+FIRE/SMOKE (NON-IMPACT) (F–NI)                                                           614
+RUNWAY EXCURSION (RE)                                                                    365
+LOSS OF CONTROL–INFLIGHT (LOC–I)                                                         353
+ABNORMAL RUNWAY CONTACT (ARC)                                                            352
+MEDICAL (MED)                                                                            303
+LOSS OF CONTROL–GROUND (LOC–G)                                                           282
+COLLISION WITH OBSTACLE(S) DURING TAKEOFF AND LANDING (CTOL)                             276
+FUEL RELATED (FUEL)                                                                      213
+GROUND COLLISION (GCOL)                                                                  165
+OTHER (OTHR)                                                                             154
+EXTERNAL LOAD RELATED OCCURRENCES (EXTL)                                                 140
+TURBULENCE ENCOUNTER (TURB)                                                              128
+ATM/CNS (ATM)                                                                            127
+RUNWAY INCURSION (RI)                                                                    125
+CONTROLLED FLIGHT INTO OR TOWARD TERRAIN (CFIT)                                           94
+NAVIGATION ERRORS (NAV)                                                                   75
+BIRD (BIRD)                                                                               60
+LOW ALTITUDE OPERATIONS (LALT)                                                            58
+CABIN SAFETY EVENTS (CABIN)                                                               57
+GROUND HANDLING (RAMP)                                                                    52
+ABRUPT MANEUVER (AMAN)                                                                    45
+UNKNOWN OR UNDETERMINED (UNK)                                                             39
+WIND SHEAR OR THUNDERSTORM (WSTRW)                                                        37
+UNDERSHOOT/OVERSHOOT (USOS)                                                               27
+AERODROME (ADRM)                                                                          24
+ICING (ICE)                                                                               20
+SECURITY RELATED (SEC)                                                                    14
+UNINTENDED FLIGHT IN IMC (UIMC)                                                           12
+EVACUATION (EVAC)                                                                         12
+FIRE/SMOKE (POST-IMPACT) (F–POST)                                                         11
+WILDLIFE (WILD)                                                                           11
+GLIDER TOWING RELATED EVENTS (GTOW)                                                        4
+LOSS OF LIFTING CONDITIONS EN ROUTE (LOLI)                                                 2
+Name: count, dtype: int64
