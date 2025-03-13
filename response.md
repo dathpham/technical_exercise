@@ -48,7 +48,12 @@ Features used are :
        'CombustibleID_DisplayEng_AIRCRAFT MATERIAL',
        'CombustibleID_DisplayEng_OTHER'
        
-Class features in the above list are 'WeatherPhenomenaTypeID_DisplayEng','WeatherPhenomenaIntensityID_DisplayEng','EngineTypeID_DisplayEng','PropellerTypeID_DisplayEng','CombustibleID_DisplayEng', and are one hot encoded. 
+Class features in the above list are 
+
+'WeatherPhenomenaTypeID_DisplayEng','WeatherPhenomenaIntensityID_DisplayEng','EngineTypeID_DisplayEng','PropellerTypeID_DisplayEng','CombustibleID_DisplayEng'
+
+and they are one hot encoded. 
+
 The output class is 'TotalFatalCount' that is mapped to 'survivality' with 0 if there is non-zero fatal count or else the 'survivality' is 1. The model is trained with 10 estimators, max depth of 2 and 0.1 learning rate.
 The accuracy on training set is  0.968 and test set accuracy is 0.57. The model is having overfitting issue. The features with most importance are : CombustibleID_DisplayEng_FUEL and the Visibility. Altering value in these features will impact the result the most.
 The weakness of my analysis :
